@@ -46,5 +46,5 @@
 ## 📊 Estadísticas
 <div>
   <img height="210em" src="https://github-readme-stats.vercel.app/api?username=ceballosAgustin&show_icons=true&theme=dracula&hide_border=true" />
-  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceballosAgustin&theme=dracula&layout=donut&hide_border=true" />
+  <img height="210em" src="" />
 </div>
